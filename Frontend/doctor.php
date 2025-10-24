@@ -346,6 +346,7 @@ function validate() {
     <p align="center" style="color:#000; font-size:18px;">Copyright &copy; 2015 - All Rights Reserved - <a href="#" style="color:#000; font-size:18px;">AD Hospital</a></p>
     <p align="center" style="color:#000; font-size:18px;">Powered By AD Hospital</p>
     <p align="center" style="color:#000; font-size:18px;">Powered By AD Hospital</p>
+    <p align="center" style="color:#000; font-size:18px;">Powered By AD Hospital</p>
      <p align="center" style="color:#000; font-size:18px;">Developed by Divyanshu Sharma &amp; Adnan Arif - B.Sc (6th Semester)</p>
     <br class="clear" />
   </div>
